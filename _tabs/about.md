@@ -3,6 +3,9 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
+# About
+I'm Dayyan Abdullah.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am passionate about $Technology$, $Cars$ and $Aviation$.
+
+I'm most passionate about giving back to the community. My Intrests include selfhosting and generally anything tech related.
