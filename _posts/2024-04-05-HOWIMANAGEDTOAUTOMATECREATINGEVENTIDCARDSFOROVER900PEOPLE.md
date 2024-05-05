@@ -64,7 +64,7 @@ var dataRange = sheet.getDataRange();
 var data = dataRange.getValues();
 ```
 
-The values from the sheet are now stored in the `data` variable. The way my sheet was formatted was such that the third column contained the fileIDs of the pictures. So we are bow going to iterate through that and get the fileID
+The values from the sheet are now stored in the `data` variable. The way my sheet was formatted was such that the third column contained the fileIDs of the pictures. So we are now going to iterate through that and get the fileID
 
 ```js
 for (var i = 1; i < data.length; i++) {
