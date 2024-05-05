@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   The Blog of a person who loves Tech, Cars and Aviation
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.dayyanabdullah.tech'
+url: 'https://blog.dayyanabdullah.com'
 
 github:
   username: dab2020            # change to your github username
@@ -40,11 +40,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dayyan Abdullah
-  email: contact@dayyanabdullah.tech             # change to your email address
+  email: contact@dayyanabdullah.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     
-    - https://dayyanabdullah.tech
+    - https://dayyanabdullah.com
     - https://github.com/dab2020       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
